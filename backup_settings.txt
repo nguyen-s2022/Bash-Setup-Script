@@ -1,0 +1,60 @@
+Default taskbar / favorites
+gsettings get org.gnome.shell favorite-apps
+['ubuntu-desktop-bootstrap_ubuntu-desktop-bootstrap.desktop', 'firefox_firefox.desktop', 'thunderbird_thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Rhythmbox3.desktop', 'libreoffice-writer.desktop', 'snap-store_snap-store.desktop', 'org.gnome.Yelp.desktop']
+
+Default folders
+gsettings get org.gnome.desktop.app-folders folder-children
+['System', 'Utilities', 'YaST', 'Pardus']
+
+Default layout
+gsettings get org.gnome.shell app-picker-layout
+[{'org.gnome.Calculator.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'simple-scan.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'firmware-updater_firmware-updater.desktop': <{'position': <4>}>, 'gnome-language-selector.desktop': <{'position': <5>}>, 'libreoffice-startcenter.desktop': <{'position': <6>}>, 'org.gnome.Settings.desktop': <{'position': <7>}>, 'libreoffice-calc.desktop': <{'position': <8>}>, 'org.gnome.Showtime.desktop': <{'position': <9>}>, 'org.gnome.Snapshot.desktop': <{'position': <10>}>, 'org.gnome.Characters.desktop': <{'position': <11>}>, 'Utilities': <{'position': <12>}>, 'System': <{'position': <13>}>, 'libreoffice-draw.desktop': <{'position': <14>}>, 'libreoffice-impress.desktop': <{'position': <15>}>, 'libreoffice-math.desktop': <{'position': <16>}>, 'nvidia-settings.desktop': <{'position': <17>}>, 'org.remmina.Remmina.desktop': <{'position': <18>}>, 'net.nokyan.Resources.desktop': <{'position': <19>}>, 'desktop-security-center_desktop-security-center.desktop': <{'position': <20>}>, 'org.gnome.Shotwell.desktop': <{'position': <21>}>, 'update-manager.desktop': <{'position': <22>}>, 'usb-creator-gtk.desktop': <{'position': <23>}>, 'org.gnome.Ptyxis.desktop': <{'position': <24>}>, 'org.gnome.TextEditor.desktop': <{'position': <25>}>, 'transmission-gtk.desktop': <{'position': <26>}>, 'brave_brave.desktop': <{'position': <27>}>, 'terminator.desktop': <{'position': <28>}>, 'proton-pass_proton-pass.desktop': <{'position': <29>}>, 'proton-mail_proton-mail.desktop': <{'position': <30>}>, 'code_code.desktop': <{'position': <31>}>, 'arduino_arduino.desktop': <{'position': <32>}>, 'easyroam_easyroam.desktop': <{'position': <33>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <34>}>, 'org.gnome.Extensions.desktop': <{'position': <35>}>, 'org.gnome.tweaks.desktop': <{'position': <36>}>, 'modelio_modelio.desktop': <{'position': <37>}>, 'drawio_drawio.desktop': <{'position': <38>}>, 'texstudio.desktop': <{'position': <39>}>, 'arduino.desktop': <{'position': <40>}>, 'net.launchpad.code.simulide.desktop': <{'position': <41>}>, 'com.cisco.secureclient.gui.desktop': <{'position': <42>}>}]
+
+Default taskbar / favorites
+gsettings get org.gnome.shell favorite-apps
+['brave_brave.desktop', 'org.gnome.Nautilus.desktop']
+
+Default folders
+gsettings get org.gnome.desktop.app-folders folder-children
+['System', 'Utilities', 'YaST', 'Pardus']
+
+Default layout
+gsettings get org.gnome.shell app-picker-layout
+[{'org.gnome.Calculator.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'simple-scan.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'firmware-updater_firmware-updater.desktop': <{'position': <4>}>, 'gnome-language-selector.desktop': <{'position': <5>}>, 'libreoffice-startcenter.desktop': <{'position': <6>}>, 'org.gnome.Settings.desktop': <{'position': <7>}>, 'libreoffice-calc.desktop': <{'position': <8>}>, 'org.gnome.Showtime.desktop': <{'position': <9>}>, 'org.gnome.Snapshot.desktop': <{'position': <10>}>, 'org.gnome.Characters.desktop': <{'position': <11>}>, 'Utilities': <{'position': <12>}>, 'System': <{'position': <13>}>, 'libreoffice-draw.desktop': <{'position': <14>}>, 'libreoffice-impress.desktop': <{'position': <15>}>, 'libreoffice-math.desktop': <{'position': <16>}>, 'nvidia-settings.desktop': <{'position': <17>}>, 'org.remmina.Remmina.desktop': <{'position': <18>}>, 'net.nokyan.Resources.desktop': <{'position': <19>}>, 'desktop-security-center_desktop-security-center.desktop': <{'position': <20>}>, 'org.gnome.Shotwell.desktop': <{'position': <21>}>, 'update-manager.desktop': <{'position': <22>}>, 'usb-creator-gtk.desktop': <{'position': <23>}>, 'org.gnome.Ptyxis.desktop': <{'position': <24>}>, 'org.gnome.TextEditor.desktop': <{'position': <25>}>, 'transmission-gtk.desktop': <{'position': <26>}>, 'terminator.desktop': <{'position': <27>}>, 'proton-pass_proton-pass.desktop': <{'position': <28>}>, 'proton-mail_proton-mail.desktop': <{'position': <29>}>, 'code_code.desktop': <{'position': <30>}>, 'arduino_arduino.desktop': <{'position': <31>}>, 'easyroam_easyroam.desktop': <{'position': <32>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <33>}>, 'org.gnome.Extensions.desktop': <{'position': <34>}>, 'org.gnome.tweaks.desktop': <{'position': <35>}>, 'modelio_modelio.desktop': <{'position': <36>}>, 'drawio_drawio.desktop': <{'position': <37>}>, 'texstudio.desktop': <{'position': <38>}>, 'arduino.desktop': <{'position': <39>}>, 'net.launchpad.code.simulide.desktop': <{'position': <40>}>, 'snap-store_snap-store.desktop': <{'position': <41>}>, 'com.cisco.secureclient.gui.desktop': <{'position': <42>}>, 'firefox_firefox.desktop': <{'position': <43>}>, 'org.gnome.Yelp.desktop': <{'position': <44>}>, 'libreoffice-writer.desktop': <{'position': <45>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <46>}>}]
+
+Default taskbar / favorites
+gsettings get org.gnome.shell favorite-apps
+['brave_brave.desktop', 'org.gnome.Nautilus.desktop']
+
+Default folders
+gsettings get org.gnome.desktop.app-folders folder-children
+['System', 'Utilities', 'YaST', 'Pardus']
+
+Default layout
+gsettings get org.gnome.shell app-picker-layout
+[{'org.gnome.Calculator.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'simple-scan.desktop': <{'position': <2>}>, 'org.gnome.clocks.desktop': <{'position': <3>}>, 'firmware-updater_firmware-updater.desktop': <{'position': <4>}>, 'gnome-language-selector.desktop': <{'position': <5>}>, 'libreoffice-startcenter.desktop': <{'position': <6>}>, 'org.gnome.Settings.desktop': <{'position': <7>}>, 'libreoffice-calc.desktop': <{'position': <8>}>, 'org.gnome.Showtime.desktop': <{'position': <9>}>, 'org.gnome.Snapshot.desktop': <{'position': <10>}>, 'org.gnome.Characters.desktop': <{'position': <11>}>, 'Utilities': <{'position': <12>}>, 'System': <{'position': <13>}>, 'libreoffice-draw.desktop': <{'position': <14>}>, 'libreoffice-impress.desktop': <{'position': <15>}>, 'libreoffice-math.desktop': <{'position': <16>}>, 'nvidia-settings.desktop': <{'position': <17>}>, 'org.remmina.Remmina.desktop': <{'position': <18>}>, 'net.nokyan.Resources.desktop': <{'position': <19>}>, 'desktop-security-center_desktop-security-center.desktop': <{'position': <20>}>, 'org.gnome.Shotwell.desktop': <{'position': <21>}>, 'update-manager.desktop': <{'position': <22>}>, 'usb-creator-gtk.desktop': <{'position': <23>}>, 'org.gnome.Ptyxis.desktop': <{'position': <24>}>, 'org.gnome.TextEditor.desktop': <{'position': <25>}>, 'transmission-gtk.desktop': <{'position': <26>}>, 'terminator.desktop': <{'position': <27>}>, 'proton-pass_proton-pass.desktop': <{'position': <28>}>, 'proton-mail_proton-mail.desktop': <{'position': <29>}>, 'code_code.desktop': <{'position': <30>}>, 'arduino_arduino.desktop': <{'position': <31>}>, 'easyroam_easyroam.desktop': <{'position': <32>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <33>}>, 'org.gnome.Extensions.desktop': <{'position': <34>}>, 'org.gnome.tweaks.desktop': <{'position': <35>}>, 'modelio_modelio.desktop': <{'position': <36>}>, 'drawio_drawio.desktop': <{'position': <37>}>, 'texstudio.desktop': <{'position': <38>}>, 'arduino.desktop': <{'position': <39>}>, 'net.launchpad.code.simulide.desktop': <{'position': <40>}>, 'snap-store_snap-store.desktop': <{'position': <41>}>, 'com.cisco.secureclient.gui.desktop': <{'position': <42>}>, 'firefox_firefox.desktop': <{'position': <43>}>, 'org.gnome.Yelp.desktop': <{'position': <44>}>, 'libreoffice-writer.desktop': <{'position': <45>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <46>}>}]
+
+Default taskbar / favorites
+gsettings get org.gnome.shell favorite-apps
+['brave_brave.desktop', 'org.gnome.Nautilus.desktop']
+
+Default folders
+gsettings get org.gnome.desktop.app-folders folder-children
+['System', 'Utilities', 'YaST', 'Pardus']
+
+Default layout
+gsettings get org.gnome.shell app-picker-layout
+[{'org.gnome.Calculator.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'Settings': <{'position': <3>}>, 'Viewers': <{'position': <4>}>, 'Camera': <{'position': <5>}>, 'Utilities': <{'position': <6>}>, 'System': <{'position': <7>}>, 'org.gnome.Yelp.desktop': <{'position': <8>}>, 'org.remmina.Remmina.desktop': <{'position': <9>}>, 'net.nokyan.Resources.desktop': <{'position': <10>}>, 'transmission-gtk.desktop': <{'position': <11>}>, 'snap-store_snap-store.desktop': <{'position': <12>}>, 'firefox_firefox.desktop': <{'position': <13>}>}, {'LibreOffice': <{'position': <0>}>, 'Arduino': <{'position': <1>}>, 'org.gnome.Ptyxis.desktop': <{'position': <2>}>, 'terminator.desktop': <{'position': <3>}>, 'code_code.desktop': <{'position': <4>}>, 'org.gnome.TextEditor.desktop': <{'position': <5>}>, 'proton-pass_proton-pass.desktop': <{'position': <6>}>, 'proton-mail_proton-mail.desktop': <{'position': <7>}>, 'Gnome+': <{'position': <8>}>, 'FH_Services': <{'position': <9>}>}]
+
+Default taskbar / favorites
+gsettings get org.gnome.shell favorite-apps
+['brave_brave.desktop', 'org.gnome.Nautilus.desktop']
+
+Default folders
+gsettings get org.gnome.desktop.app-folders folder-children
+['System', 'Utilities', 'YaST', 'Pardus']
+
+Default layout
+gsettings get org.gnome.shell app-picker-layout
+[{'org.gnome.Calculator.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'Settings': <{'position': <3>}>, 'Viewers': <{'position': <4>}>, 'Camera': <{'position': <5>}>, 'Utilities': <{'position': <6>}>, 'System': <{'position': <7>}>, 'org.gnome.Yelp.desktop': <{'position': <8>}>, 'org.remmina.Remmina.desktop': <{'position': <9>}>, 'net.nokyan.Resources.desktop': <{'position': <10>}>, 'transmission-gtk.desktop': <{'position': <11>}>, 'snap-store_snap-store.desktop': <{'position': <12>}>, 'firefox_firefox.desktop': <{'position': <13>}>}, {'LibreOffice': <{'position': <0>}>, 'Arduino': <{'position': <1>}>, 'org.gnome.Ptyxis.desktop': <{'position': <2>}>, 'terminator.desktop': <{'position': <3>}>, 'code_code.desktop': <{'position': <4>}>, 'org.gnome.TextEditor.desktop': <{'position': <5>}>, 'proton-pass_proton-pass.desktop': <{'position': <6>}>, 'proton-mail_proton-mail.desktop': <{'position': <7>}>, 'Gnome+': <{'position': <8>}>, 'FH_Services': <{'position': <9>}>}]
+
